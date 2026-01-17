@@ -15,7 +15,7 @@ int main(){
    }
 
    if(temp==rev){
-    cout<<temp <<" Number is Palindrom";
+    cout<<temp <<"Number is Palindrom";
    }
    else{
     cout<<temp <<" Number is Not Palindrom";
